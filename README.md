@@ -1,4 +1,5 @@
 # AWS-schema
+![Diagrama AWS](images/schema_aws_ebs.png)
 
 O diagrama neste repositório representa uma arquitetura AWS baseada em EC2, desenvolvida para consolidar os conceitos de gerenciamento de instâncias.
 O fluxo é o seguinte:
